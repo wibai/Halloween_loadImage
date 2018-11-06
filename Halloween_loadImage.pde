@@ -8,7 +8,7 @@ image(img,0,0);
 
 void draw()
 {
-  save("WILLIAM.Halloween.png");
+  
 }
 
 void mouseDragged()
